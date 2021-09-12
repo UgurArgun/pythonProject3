@@ -1,0 +1,3 @@
+DEBUG    urllib3.connectionpool:connectionpool.py:971 Starting new HTTPS connection (1): api.test.virta-ev.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:452 https://api.test.virta-ev.com:443 "GET /v4/stations?latMin=60.164101&latMax=60.164104&longMin=24&longMax=25 HTTP/1.1" 200 None
+INFO     root:simple_test.py:18 logthis

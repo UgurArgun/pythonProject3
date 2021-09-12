@@ -1,0 +1,4 @@
+<Response [200]>
+numbers of objects: 11
+[184878, 184919, 184937, 184941, 192889, 192951, 194826, 195043, 196656, 196741, 271718]
+['Târgu Mureș', 'Sibiu', 'Pitești', 'Râmnicu Vâlcea', 'Aachen', 'Sibiu', 'Sighișoara', 'Șelimbăr', 'Athens', 'Athens', 'Aachen']
